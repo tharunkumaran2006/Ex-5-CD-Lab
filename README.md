@@ -1,8 +1,6 @@
 # Ex-5-RECOGNITION-OF-THE-GRAMMAR-anb-where-n-10-USING-YACC
 RECOGNITION OF THE GRAMMAR(anb where n>=10) USING YACC
-# NAME : THARUN V K
-# REG NO : 212223230231
-# Date:
+# Date: 08/05/2025
 # Aim:
 To write a YACC program to recognize the grammar anb where n>=10.
 # ALGORITHM
@@ -15,6 +13,8 @@ To write a YACC program to recognize the grammar anb where n>=10.
 7.	Compile these with the C compiler as gcc lex.yy.c y.tab.c
 8.	Enter a string as input and it is identified as valid or invalid.
 # PROGRAM:
+### DEVELOPED BY : THARUN V K
+### REG NO : 212223230231
 ## expr5.l
 ```c
 %{
